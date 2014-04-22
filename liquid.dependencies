@@ -40,12 +40,6 @@
     "repository":  "hardware_qcom_media-caf-new",
     "target_path": "hardware/qcom/media-caf-new",
     "branch":      "kk4.4"
-  },
-  {
-    "remote": "tm",
-    "repository": "proprietary_vendor_samsung",
-    "target_path": "vendor/samsung",
-    "revision": "cm-11.0"
   }
 ]
 
